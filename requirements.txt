@@ -1,0 +1,31 @@
+# CSC111 Winter 2021 Project: Anime Atlas.
+# Ian Lavine, Jeremy Hiu Shun Wong, Prithee Roy Ballave, Ayush Sahi
+
+# Testing and code checking
+hypothesis
+pytest
+python-ta~=1.6.3
+
+# Graph Visualization
+networkx~=2.5
+bokeh~=2.3.1
+scipy~=1.6.2
+
+# Webscrapping
+urllib3~=1.25.10
+beautifulsoup4~=4.9.3
+
+# Token creation
+requests~=2.24.0
+requests-oauthlib~=1.1.0
+
+# Local server creation
+Flask~=1.1.2
+Flask-OAuthlib~=0.9.6
+
+
+# Reading images
+Pillow~=8.2.0
+
+# Used in case of pip install in command line
+pip~=21.0.1
